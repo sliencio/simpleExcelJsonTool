@@ -1,0 +1,15 @@
+{
+  "name": "exportdic",
+  "version": "1.0.0",
+  "description": "export dictionary excel",
+  "main": "LoadExcel.js",
+  "scripts": {
+    "test": "node Scripts/test.js"
+  },
+  "author": "lmn",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.15.0",
+    "node-xlsx": "^0.12.1"
+  }
+}

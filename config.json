@@ -1,0 +1,29 @@
+{
+
+    "========是否导出json文件(默认导出excel)===========":"",
+    "isExportJson": true,
+
+    "========导出excel路径===========":"",
+    "exportExcelPath": "Excel/Out/",
+
+    "========所需要excel的路径===========":"",
+    "excelDirectoryPath____": "Excel/In/",
+
+    "========导出json路径===========": "",
+    "exportjsonPath": "Json/Out/",
+
+    "========所需要json的路径===========": "",
+    "jsonDirectoryPath": "Json/In/",
+
+    "========查找字段的所在excel所在行===========":"",
+    "fieldIndex":1,
+
+    "========主键坐在列===========": "",
+    "PrimaryIndex": 0,
+
+    "========读取数据的起始行===========":"",
+    "beginReadRow":2,
+
+    "========是否格式化json===========": "",
+    "formatJson": true
+}
